@@ -283,7 +283,7 @@ https://github.com/faker/faker-cloud
 
 ### Faker.fake()
 
-faker.js contains a super useful generator method `Faker.fake` for combining faker API methods using a mustache string format.
+faker.js contains a super useful generator method `Faker.fake` for combining faker API methods using a [mustache](https://github.com/janl/mustache.js) string format.
 
 **Example:**
 
