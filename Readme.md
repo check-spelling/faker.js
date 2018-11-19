@@ -394,7 +394,7 @@ npm install .
 npm run test
 ```
 
-You can view a code coverage report generated in coverage/lcov-report/index.html.
+You can view a code coverage report generated in [coverage/lcov-report/index.html](coverage/lcov-report/index.html).
 
 ## Building faker.js
 
